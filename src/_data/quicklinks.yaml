@@ -9,6 +9,6 @@ links:
   - title: 更多服务
     url: "https://github.com/alpinejs/alpine"
     desc: 私人订制，
-  <!--- title: 更多服务-->
+  - title: 更多服务
     url: "https://shop.stashbox.top"
     desc: AWS，Scloud等VPS
