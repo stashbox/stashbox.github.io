@@ -1,11 +1,14 @@
 ---
-items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "8"
-  - text: Blog
-    url: "/blog"---
+links:
 
+
+
+
+
+
+  - title: 防失联地址
+    url: "https://home.stashbox.top"
+    desc: 最新网址发布页
+  - title: 最新地址
+    url: "https://stashbox5.com"
+    desc: 随时随地 畅游全球
